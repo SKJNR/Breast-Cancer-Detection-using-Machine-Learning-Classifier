@@ -5,7 +5,7 @@
   * [Introduction - the project's aim](https://github.com/Surekha-honey/Breast-Cancer-Detection-using-Machine-Learning-Classifier/#Introduction%20-%20the%20project's%20aim)
   * [Technologies](https://github.com/Surekha-honey/Breast-Cancer-Detection-using-Machine-Learning-Classifier/#Technologies)
   * [Launch](https://github.com/Surekha-honey/Breast-Cancer-Detection-using-Machine-Learning-Classifier/#launch)
-  * [Examples of use](https://github.com/Surekha-honey/Breast-Cancer-Detection-using-Machine-Learning-Classifier/#Examples%20of%20use)
+  * [Project Demo](https://github.com/Surekha-honey/Breast-Cancer-Detection-using-Machine-Learning-Classifier/#Examples%20of%20use)
   * [Project status](https://github.com/Surekha-honey/Breast-Cancer-Detection-using-Machine-Learning-Classifier/#Project%20status) 
   * [Sources](https://github.com/Surekha-honey/Breast-Cancer-Detection-using-Machine-Learning-Classifier/#Sources)
   * [Other information](https://github.com/Surekha-honey/Breast-Cancer-Detection-using-Machine-Learning-Classifier/#Other%20information)
