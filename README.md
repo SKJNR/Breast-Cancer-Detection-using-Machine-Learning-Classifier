@@ -36,4 +36,6 @@ The XGBoost model far outperformed the other approaches on the test and validati
 * Logistic Regression : 95
 * Decision Tree Classifier : 94
 ## Productionization :
-In this step , I had deployed Model on heroku with Flask api.
+* In this step , I had deployed Model on heroku with Flask api.
+* The API endpoint takes in a request with a values by end user and returns weather they have cancer or not .
+Here is URL to predict [Breast Cancer Detection Web App][https://breastcancerdetectionml.herokuapp.com/]
